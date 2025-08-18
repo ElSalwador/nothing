@@ -1,0 +1,92 @@
+#EXTM3U
+
+#================================================
+# BÖLÜM 1: STABİL KANALLAR
+# (Bu kanalların her zaman çalışması beklenir)
+#================================================
+
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/v2Vxgso.png" group-title="Spor",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/uRjXF42.png" group-title="Haber",Baku Tv
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
+#================================================
+# BÖLÜM 2: KORUMALI & GEÇİCİ KANALLAR
+# (UYARI: Bu linkler ZAMAN AŞIMINA UĞRAMIŞTIR)
+# (Çalışmaları için taze linklerle değiştirilmeleri gerekir)
+#================================================
+
+#-------------------- CANLITV.FUN KAYNAKLI --------------------
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="XazarTV.az" tvg-logo="https://i.imgur.com/0Fh1q5N.png" group-title="Genel",Xezer Tv
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="" group-title="Çocuk",Arb Güneş
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/gYAZs39.png" group-title="Genel",Az Tv
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="ARBTV.az" tvg-logo="" group-title="Genel",Arb Tv
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/83wS035.png" group-title="Kültür",Medeniyyet Tv
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=ea5460956113bf4c461d13d1f112cfb0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="" group-title="Bölgesel",Kanal S
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="CBCTV.az" tvg-logo="" group-title="Genel",Cbc Tv
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=ea5460956113bf4c461d13d1f112cfb0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/u15gx2Z.png" group-title="Genel",İctimai Tv
+https://yayin2.canlitv.fun/live/ictimaitv.stream/playlist.m3u8?hash=ea5460956113bf4c461d13d1f112cfb0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/6cQkgyL.png" group-title="Genel",Space Tv
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/yvM77qC.png" group-title="Haber",Arb 24
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="" group-title="Bölgesel",Dünya Tv
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canlitv.fun/
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="" group-title="Genel",Azad Tv
+https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=506f14291b626122b610735030f365d2
+
+#-------------------- DİĞER KAYNAKLAR --------------------
+
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/O6aHR9h.png" group-title="Spor",İdman Tv
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.ts.m3u8?token=74650bab171b312a991ccb168a47cbe59caf40a9-0644a35ba893fbfc6836e64aa895d9b1-1755537392000000-1755526592000
+
+#EXTINF:-1 tvg-id="AlvinChannel.az" tvg-logo="" group-title="Çocuk",Alvin Channel
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AzStar.az" tvg-logo="" group-title="Müzik",Az Star
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1091051967_b2096000.m3u8?hash=ea5460956113bf4c461d13d1f112cfb0
